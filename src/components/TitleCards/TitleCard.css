@@ -12,9 +12,11 @@
     gap: 10px;
     overflow-x: scroll;
 }
-.card-list::-webkit-scrollbar{
-    display:none;
+
+.card-list::-webkit-scrollbar {
+    display: none;
 }
+
 .card-list img {
     width: 240px;
     border-radius: 4px;
@@ -29,4 +31,9 @@
     position: absolute;
     bottom: 10px;
     right: 10px;
+}
+
+.card-category-title {
+    font-size: 18px;
+    font-weight: 500;
 }

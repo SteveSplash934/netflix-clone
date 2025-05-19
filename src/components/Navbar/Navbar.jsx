@@ -28,7 +28,7 @@ const Navbar = () => {
                     <img src={profile_img} alt="" className='profile' />
                     <img src={caret_icon} alt="" />
                     <div className="dropdown">
-                        <p>Sign out</p>
+                        <p>Sign out of Netflix</p>
                     </div>
 
                 </div>
